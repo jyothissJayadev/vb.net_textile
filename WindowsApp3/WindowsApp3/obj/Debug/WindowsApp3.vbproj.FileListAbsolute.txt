@@ -1,0 +1,41 @@
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Login.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Register.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Admin.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Employee.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ProductAdd.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ProductEdit.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\bin\Debug\Bunifu.Licensing.dll
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Admin.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Employee.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Login.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ProductAdd.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ProductEdit.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Register.resources
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsA.C574EB19.Up2Date
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\jyoth\Downloads\Telegram Desktop\WindowsApp3 - Copy\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Purchase.resources
